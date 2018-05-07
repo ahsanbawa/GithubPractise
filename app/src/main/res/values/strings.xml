@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubPractise</string>
+
+
+    <string name="activity_unknown">unknown</string>
+
+    <string name="activity_in_vehicle">in_vehicle</string>
+    <string name="activity_on_bicycle">on_bicycle</string>
+    <string name="activity_on_foot">on_foot</string>
+    <string name="activity_running">running</string>
+    <string name="activity_still">still</string>
+    <string name="activity_tilting">tilting</string>
+    <string name="activity_walking">walking</string>
+
+</resources>
